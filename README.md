@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi dear 👋, I'm Leandro Rodrigues
 
 
 
-- 🔭 I’m currently working on BCBank.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: @LeandroRodrigues
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on BCBank
+- 🌱 I’m currently learning <b>JavaScript, HTML, CSS, SQL, Node, React</b>
+- 👯 I’m looking to collaborate on  <b><i>React </i></b> projects
+- 💬 Ask me about <b>ReactJS </b>
+- 📫 How to reach me: <a href="">@LeandroRodrigues<a/>
+- ⚡ Fun fact: <b>Carefree</b> 😄
 
