@@ -7,7 +7,7 @@
 
 
 - 🔭 ***Always Improving*** 🚀
-- 🌱 I’m currently learning <b>JavaScript, HTML, CSS, JS, ReactJS</b>
+- 🌱 I’m currently learning <b>JavaScript, HTML, CSS, ReactJS</b>
 - 👯 I’m looking to collaborate on  <b><i>ReactJS </i></b> projects
 - 💬 Ask me about <b>ReactJS </b>
 - 📫 How to reach me: <a href="">@LeandroRodrigues<a/>
