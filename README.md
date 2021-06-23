@@ -1,6 +1,6 @@
  
 <h1 align="center">Hello 👋,  I'm Leandro Rodrigues</h1>
-<h3 align="center">A front-end developer </h3> 
+ 
 
  
 
