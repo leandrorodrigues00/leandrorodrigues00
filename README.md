@@ -1,4 +1,6 @@
- <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/783ff285743343.5d84ba592b6f6.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="375" height="590em" />
+ [![-----------------------------------------------------](https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/colored.png)](#installation)
+
+ <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/783ff285743343.5d84ba592b6f6.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="375" height="590em"  />
  
  
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,  I'm Leandro Rodrigues </h1>
@@ -18,7 +20,7 @@
 - 🌱 I’m currently learning <b>Next.js</b>
 - 👯 I’m looking to collaborate on  <b><i>ReactJS </i></b> projects
 - 💬 Ask me about `[Git, React, JavaScript, HTML, CSS]`
-- 📫 How to reach me:     <a href="mailto:leandro.rodrigues00@hotmail.com" target="_blank" >  <img alt="Gmail - Fabricio Cavalcante" src="https://img.shields.io/badge/-Hotmail-blue?link=mailto:leandro.rodrigues00@hotmail.com&longCache=true"></a>
+- 📫 How to reach me: <a href="mailto:leandro.rodrigues00@hotmail.com" target="_blank">leandro.rodrigues00@hotmail.com</a>
 
  
 - ⚡ “Why be your real self when you can be something really worthwhile?” 
@@ -27,6 +29,8 @@
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
+
+ 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -50,5 +54,8 @@
 </p>
 
 <br><br>
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/colored.png)](#installation)
 
   
