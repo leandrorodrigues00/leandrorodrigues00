@@ -9,7 +9,7 @@
 
 - 🔭 ***Always Improving*** 🚀
 - 🌱 I’m currently learning <b>Next.js</b>
-- 👯 I’m looking to collaborate on  <b><i>ReactJS </i></b> open source projects
+- 👯 I’m looking to collaborate on  <b><i>ReactJS </i></b> projects
 - 💬 Ask me about `[Git, React, Javascript]`
 - ⚡ “Why be your real self when you can be something really worthwhile?” 
 
