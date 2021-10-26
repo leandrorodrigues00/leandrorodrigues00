@@ -43,6 +43,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorodrigues00&layout=compact&theme=vision-friendly-dark" alt="leandro's most languages"/>
 </p>
 
-<br><br>
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/colored.png)](#installation)
