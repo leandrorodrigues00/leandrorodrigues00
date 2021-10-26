@@ -10,7 +10,7 @@
  
 
 
-- 🔭 **_Always Improving_** 🚀
+- 🔭 **_always learning.📖_**  
 - 🌱 I’m currently learning <b>Next.js</b>
 - 👯 I’m looking to collaborate on <b><i>ReactJS </i></b> projects
 - 💬 Ask me about `[Git, React, JavaScript, HTML, CSS]`
