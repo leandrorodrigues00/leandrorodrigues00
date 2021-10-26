@@ -38,9 +38,12 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p>
+
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorodrigues00&show_icons=true&theme=vision-friendly-dark" alt="leandro's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorodrigues00&layout=compact&theme=vision-friendly-dark" alt="leandro's most languages"/>
-</p>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorodrigues00&layout=compact&theme=vision-friendly-dark" alt="leandro's most languages"/>
+</div>
+</div>
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/colored.png)](#installation)
