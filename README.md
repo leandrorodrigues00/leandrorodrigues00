@@ -38,9 +38,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leandrorodrigues00&show_icons=true&theme=vision-friendly-dark" alt="leandro's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorodrigues00&layout=compact&theme=vision-friendly-dark" alt="leandro's most languages"/>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorodrigues00&show_icons=true&theme=vision-friendly-dark" alt="leandro's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorodrigues00&layout=compact&theme=vision-friendly-dark" alt="leandro's most languages"/>
 </p>
 
 <br><br>
