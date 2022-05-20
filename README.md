@@ -1,23 +1,19 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/colored.png)](#installation)
 
- <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/783ff285743343.5d84ba592b6f6.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="375" height="590em"  />
+ <img align="right" src="https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/jeffpixel.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="375" height="590em"  />
  
  
-<h1 align="center">Hello  <img src="https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/hi.gif" width="30px">,  I'm Leandro Rodrigues </h1>
-
+<h1 align="center">Hello  <img src="https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/hi2.gif" width="30px">,  I'm Leandro Rodrigues </h1>
 
  <h3 align="center">A front-end developer 👨🏻‍💻 </h3>
 
-<br> 
- 
+<br>
 
-
-- 🔭 **_always learning.📖_**  
+- 🔭 **_always learning.📖_**
 - 🌱 I’m currently learning <b>Next.js</b>
 - 👯 I’m looking to collaborate on <b><i>ReactJS </i></b> projects
 - 💬 Ask me about `[Git, React, JavaScript, HTML, CSS]`
 - 📫 How to reach me: <a href="mailto:leandro.rodrigues00@hotmail.com" target="_blank">leandro.rodrigues00@hotmail.com</a>
-
 - ⚡ “Why be your real self when you can be something really worthwhile?”
 
 <br><br>
@@ -40,12 +36,14 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorodrigues00&show_icons=true&theme=vision-friendly-dark" alt="leandro's stats"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorodrigues00&layout=compact&theme=vision-friendly-dark" alt="leandro's most languages"/>
 </div>
 </div>
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/Bottom.svg" alt="Github Stats" />
+</p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/colored.png)](#installation)
