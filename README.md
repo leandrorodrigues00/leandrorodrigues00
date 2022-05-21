@@ -1,8 +1,8 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/colored.png)](#installation)
 
+<picture>
  <img align="right" src="https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/jeffpixel.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="375" height="590em"  />
- 
- 
+ </picture>
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/hi2.gif" width="30px">,  I'm Leandro Rodrigues </h1>
 
  <h3 align="center">A front-end developer 👨🏻‍💻 </h3>
