@@ -4,7 +4,6 @@
  <img align="right" src="https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/jeffpixel.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="375" height="590em"  />
  </picture>
 <h1 align="center">Hello  <picture><img src="https://raw.githubusercontent.com/leandrorodrigues00/leandrorodrigues00/main/.github/hi2.gif" width="30px"> </picture>,  I'm Leandro Rodrigues </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leandrorodrigues00&color=blue" alt="Profile views" /> </p>
 
  <h3 align="center">A front-end developer 👨🏻‍💻 </h3>
 
