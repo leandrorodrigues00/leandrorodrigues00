@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on <b><i>ReactJS </i></b> projects
 - 💬 Ask me about `[Git, React, JavaScript, HTML, CSS]`
 - 📫 How to reach me: <a href="mailto:leandro.rodrigues00@hotmail.com" target="_blank">leandro.rodrigues00@hotmail.com</a>
-- ⚡ “Why be your real self when you can be something really worthwhile?”
+- ⚡ “Why go on being yourself when you can be someone much better?”
 
 <br><br>
 
