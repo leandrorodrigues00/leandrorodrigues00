@@ -10,7 +10,7 @@
 <br>
 
 - 🔭 **_always learning.📖_**
-- 🌱 I’m currently learning <b>Next.js 13</b>
+- 🌱 I’m currently learning <b>Next.js 15</b>
 - 👯 I’m looking to collaborate on <b><i>ReactJS </i></b> projects
 - 💬 Ask me about `[Git, React, JavaScript, HTML, CSS]`
 - 📫 How to reach me: <a href="mailto:leandro.rodrigues00@hotmail.com" target="_blank">leandro.rodrigues00@hotmail.com</a>
